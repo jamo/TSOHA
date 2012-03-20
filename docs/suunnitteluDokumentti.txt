@@ -1,0 +1,30 @@
+1. JOHDANTO
+
+*** Järjestelmän tarkoitus
+** Tiivis kuvaus siitä mistä on kyse.
+** Millaisen toiminnan tukemiseen järjestelmä on tarkoitettu.
+** Mitkä ovat järjestelmän tavoitteet.
+** Nämä tiedot saa yleensä tehtäväkuvauksesta.
+
+Järjestelmän käyttötarkoituksena on toteuttaa esimerkiksi kurssikyselyitä, joihin tässä tapauksessa opiskelijat voivat nopeasti vastata, 
+näin saadaan hyödyllistä tietoa esim. kurssin tehtävien vaikseustasosta.
+Tavoitteena on toteuttaa järjestelmä, jolla voi kyselyitä, joihin vastaamiseen ei mene yli minuuttia. 
+
+
+
+
+*** Toimintaympäristö
+
+** Missä laite ja ohjelmistoympäristössä järjestelmän on tarkoitus toimia.
+** Rajaukset
+** Mahdolliset rajaukset koskien määrittelyn, suunnittelun ja toteutuksen laajuutta.
+
+Kaikissa, joissa postgresql tietokanta ja rails:ille sopiva ympäristö olemassa. ruby 1.9.2.138 Rails 3.2.2
+
+*** Toteutusympäristö
+** Missä ympäristössä työ toteutetaan. 
+Ruby on rails kielellä ja deployaus herokuun.
+
+
+
+*** Käyttätapaukset 
