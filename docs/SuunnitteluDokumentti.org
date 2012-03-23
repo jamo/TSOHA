@@ -21,6 +21,13 @@
  Ruby on rails kielellä ja deployaus herokuun.
  
 * Yleiskuva järjestelmästä (2)
+** Sidosryhmäkaavio
+   Tartteeko oikeasti tällaisen :(
+** Käyttäjäruhmät
+  Kursilainen (ei autentikointia) tarkoitetaan kurssilaista, jolle ehdotetaan kyselyyn vastaamista. 
+
+  Admin on henkilö, jolla oikeudet luoda uusia kursseja ja kysymyksiä, sekä lukea kommentteja
+
     kesken
 * Käyttätapaukset (3)     
    Pääsivulla / cources -sivulla
@@ -52,14 +59,13 @@
    -Näkee vastauksen jälkeen jonkinasteisen graafin vastausten jakautumisesta
 
 * Järjestelmän tietosisältö (4)
-   Kesken
-
+  [[file:tietosisalto.jpeg]]
 * Käyttöliittymän hahmotelma (5)
    kesken
-
+   [[file:sivukaavio.jpeg]]
 * Relaatiotietokantakaavio (6)
 
 ** Onko tämä ok?
 *** TODO Puhdin miten nuo kysymykset kannattaa oikeasti toteuttaa
-[[file:tietokanta1.gif]]
+    [[file:tietokanta1.gif]]
    
