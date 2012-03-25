@@ -22,13 +22,12 @@
  
 * Yleiskuva järjestelmästä (2)
 ** Sidosryhmäkaavio
-   Tartteeko oikeasti tällaisen :(
+   [[file:sidosryhmakaavio.png]]
 ** Käyttäjäruhmät
   Kursilainen (ei autentikointia) tarkoitetaan kurssilaista, jolle ehdotetaan kyselyyn vastaamista. 
 
   Admin on henkilö, jolla oikeudet luoda uusia kursseja ja kysymyksiä, sekä lukea kommentteja
 
-    kesken
 * Käyttätapaukset (3)     
    Pääsivulla / cources -sivulla
    Admin
@@ -61,11 +60,7 @@
 * Järjestelmän tietosisältö (4)
   [[file:tietosisalto.jpeg]]
 * Käyttöliittymän hahmotelma (5)
-   kesken
    [[file:sivukaavio.jpeg]]
 * Relaatiotietokantakaavio (6)
-
-** Onko tämä ok?
-*** TODO Puhdin miten nuo kysymykset kannattaa oikeasti toteuttaa
     [[file:tietokanta1.gif]]
    
